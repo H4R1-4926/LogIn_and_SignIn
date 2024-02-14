@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188360167180",
+    "project_id": "login-pro-df664",
+    "storage_bucket": "login-pro-df664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188360167180:android:51341b1a3a28a0a291c329",
+        "android_client_info": {
+          "package_name": "com.example.firebase_pro_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnU6OqGTdXBPCRCYRyoZo8Gq54--exP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

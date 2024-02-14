@@ -1,3 +1,3 @@
-# firebase_pro_3
+# Firebase Auth
 
-A new Flutter project.
+Simple Login and SignIn using Firebase Auth package.
